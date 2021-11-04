@@ -10,11 +10,3 @@ sign_in_btn.addEventListener('click', () => {
     container.classList.remove('sign-up-mode');
 });
 
-function validation() {
-    var user = document.getElementById('user').addEventListener('onchange', (e) => {
-        e.preventDefault();
-        if (e.target.value.length < 1 or e.target.validation.length > 8)
-            document.getElementById('userspan').innerHTML = " *** Username cannot be blank";
-    });
-
-}
