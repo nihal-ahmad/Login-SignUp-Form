@@ -11,4 +11,4 @@ This is a UI of a Login and SignUp page
 
 ### Sign Up Page
 
-![](https://github.com/nihal-ahmad/Login-SignUp-Form/blob/main/.png)
+![](https://github.com/nihal-ahmad/Login-SignUp-Form/blob/main/signup.png)
